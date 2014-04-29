@@ -1,10 +1,10 @@
-#Project
-These are the sample Xcode projects that accompany the blog posts published at [roystanfield.svbtle.com](http://roystanfield.svbtle.com/) where I write about iOS app design.
+##Project
+These are the sample Xcode projects that accompany blog posts published at [roystanfield.svbtle.com](http://roystanfield.svbtle.com/) where I write about iOS app design.
 
-#Goals
+##Goals
 My ultimate goal for learning iOS is to have enough knowledge to create prototype animations for new features and to be able to take on some of user interface polishing chores. Plus, it's fun!
 
-#Back Story
+##Back Story
 Sometime last year [Chesley Andrews](https://twitter.com/itschesley), [Paul Lau](https://twitter.com/paulingford) and I started coming into work an hour early everyday to study [Objective-C Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/book/objective-c_programming_the_big_nerd_ranch_guide). After the first 20 chapters – completed at roughly a chapter a day – I began to feel I knew enough Obj-C to move into iOS programming. 
 
 But there was a catch. The next BNR book in the series, [iOS Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/book/ios_programming_the_big_nerd_ranch_guide), concentrated on Interface Builder. While I'm sure working with IB and Storyboards are [a great way to make iOS apps](https://medium.com/building-potluck/7f493cdfa381) none of the apps in the Etsy codebase are built using them. If the mobile team's designers want to be able to work in code on our own apps we're going to need to know how to create UI through code.
